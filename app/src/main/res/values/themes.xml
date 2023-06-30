@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.FoodMood" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/lightPrimary</item>
+        <item name="colorPrimaryVariant">@color/lightPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/lightOnPrimary</item>
+        <item name="colorSecondary">@color/lightSecondary</item>
+        <item name="colorSecondaryVariant">@color/lightSecondaryVariant</item>
+        <item name="colorOnSecondary">@color/lightOnSecondary</item>
+        <item name="android:windowBackground">@color/lightBackground</item>
+        <item name="android:textColorPrimary">@color/lightTextPrimary</item>
+        <item name="android:textColorSecondary">@color/lightTextSecondary</item>
+    </style>
+
+    <!-- Custom colors -->
+    <color name="lightPrimary">#FFC107</color>
+    <color name="lightPrimaryVariant">#FFA000</color>
+    <color name="lightOnPrimary">#FFFFFF</color>
+    <color name="lightSecondary">#8BC34A</color>
+    <color name="lightSecondaryVariant">#689F38</color>
+    <color name="lightOnSecondary">#000000</color>
+    <color name="lightBackground">#FFFFFF</color>
+    <color name="lightTextPrimary">#000000</color>
+    <color name="lightTextSecondary">#757575</color>
+</resources>
